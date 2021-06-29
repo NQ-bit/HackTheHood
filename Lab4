@@ -1,9 +1,0 @@
-def triangle_area( base, height ) :
-    area = (0.5)* (base * height)
-    print(area)
-    return area
-
-triangle_area(3,3,4)
-print( triangle_area(3, 3,4)) 
-#would return 6 and print to console
-print(triangle_area(8, 11, 1) #would re
